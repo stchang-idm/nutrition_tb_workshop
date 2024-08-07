@@ -15,12 +15,12 @@ This repository holds pre-reads and materials intended for presenters to share w
 
 ## How to Contribute
 
-Presenters can upload their materials directly to this repository or send them to Stewart Chang at [stewart.chang@gatesfoundation.org](mailto:stewart.chang@gatesfoundation.org).
+Presenters can upload their materials directly to this repository (if they have set up GitHub accounts) or send them to Stewart Chang at [stewart.chang@gatesfoundation.org](mailto:stewart.chang@gatesfoundation.org).
 
 ### Direct Upload Instructions via GitHub Web Interface
 
 1. Navigate to the repository on GitHub.
-2. Click the "Upload files" button.
+2. Click the "Add file" button then select "Upload files" from the dropdown menu.
 3. Drag and drop your files or select them from your computer.
 4. Add a descriptive commit message.
 5. Click "Commit changes" to upload your files.
